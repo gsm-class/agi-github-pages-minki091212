@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "agi"
+assignment: "github-pages"
+owner:
+  username: "minki091212"
+  id: 207556632
+  accepted_at: "2026-09-01T23:48:43Z"
+source:
+  owner: "gsm-class"
+  owner_id: 318515310
+  repo: "github-pages"
+  branch: "main"
